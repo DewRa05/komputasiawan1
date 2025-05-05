@@ -20,4 +20,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
        push: true
-       tags: username/yourapp:latest
+       tags: DewRa05:latest
