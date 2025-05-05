@@ -20,4 +20,4 @@ jobs:
       uses: docker/build-push-action@v5
       with:
        push: true
-       tags: DewRa05:latest
+       tags: dewra05/my-custom-image:latest
